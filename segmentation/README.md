@@ -1,3 +1,15 @@
+# ##### Editado por Programador Artificial - Começo \#####
+Esta pasta contém algumas alterações em relação ao repositório oficial com intuito de facilitar o treinamento utilizando dataset customizado.
+
+[Vídeo de como treinar segmentação semântica - Em Breve]()
+
+Dataset presente na pasta “data” foram retirados do dataset [yolo-animal-detection-small](https://www.kaggle.com/datasets/tarunbisht11/yolo-animal-detection-small)
+
+## Autor
+* **Programador Artificial** - [GitHub](https://github.com/ProgramadorArtificial) - [YouTube](https://www.youtube.com/@ProgramadorArtificial)
+
+# ##### Editado por Programador Artificial - Fim \#####
+
 # InternImage for Semantic Segmentation
 
 This folder contains the implementation of the InternImage for semantic segmentation. 
@@ -43,6 +55,12 @@ pip install timm==0.6.11 mmdet==2.28.1
 
 ```bash
 pip install opencv-python termcolor yacs pyyaml scipy
+```
+
+- Instalar MMSegmentation:
+
+```bash
+pip install mmsegmentation==0.27.0
 ```
 
 - Compile CUDA operators

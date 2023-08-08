@@ -1,7 +1,8 @@
 # model_cfg
-num_things_classes = 100
-num_stuff_classes = 50
-num_classes = num_things_classes + num_stuff_classes
+#num_things_classes = 100
+#num_stuff_classes = 50
+#num_classes = num_things_classes + num_stuff_classes
+num_classes = 150
 norm_cfg = dict(type='SyncBN', requires_grad=True)
 model = dict(
     type='EncoderDecoderMask2Former',
@@ -24,8 +25,8 @@ model = dict(
         feat_channels=256,
         out_channels=256,
         in_index=[0, 1, 2, 3],
-        num_things_classes=num_things_classes,
-        num_stuff_classes=num_stuff_classes,
+        #num_things_classes=num_things_classes,
+        #num_stuff_classes=num_stuff_classes,
         num_queries=100,
         num_transformer_feat_level=3,
         pixel_decoder=dict(
