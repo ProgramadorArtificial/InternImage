@@ -1,7 +1,7 @@
 # ##### Editado por Programador Artificial - Começo \#####
 Este fork foi criado para realizar alterações e facilitar o treinamento de modelos de segmentação semântica utilizando dataset customizado. Todas as alterações realizadas estão dentro da pasta “segmentation”.
 
-[Vídeo de como treinar segmentação semântica - Em Breve]()
+[Vídeo de como treinar segmentação semântica](https://youtu.be/G1CDmEDqgIg)
 
 ## Autor
 * **Programador Artificial** - [GitHub](https://github.com/ProgramadorArtificial) - [YouTube](https://www.youtube.com/@ProgramadorArtificial)

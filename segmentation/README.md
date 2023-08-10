@@ -1,7 +1,7 @@
 # ##### Editado por Programador Artificial - Começo \#####
 Esta pasta contém algumas alterações em relação ao repositório oficial com intuito de facilitar o treinamento utilizando dataset customizado.
 
-[Vídeo de como treinar segmentação semântica - Em Breve]()
+[Vídeo de como treinar segmentação semântica](https://youtu.be/G1CDmEDqgIg)
 
 Dataset presente na pasta “data” foram retirados do dataset [yolo-animal-detection-small](https://www.kaggle.com/datasets/tarunbisht11/yolo-animal-detection-small)
 
